@@ -7,7 +7,7 @@ Envie dados do Wise 4051 Advantech para uma base de dados SQLServer
 
 ## Fluxo do processo
 <p align="center">
-  <img src="./assets/fluxo.png" width="300" alt="Python" /></a>
+  <img src="./assets/fluxo.png" width="700" alt="Python" /></a>
 </p>
 
 ## Execução
