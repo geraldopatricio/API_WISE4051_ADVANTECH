@@ -31,6 +31,19 @@ de produção conforme o que for produzido, podendo ser ajustado ou não.
 
 ```
 
+## Pré-Requisitos
+```bash
+Neste cenário o cliente deverá ter:
+1 - Gateway WISE-4051 - Advantech.
+2 - Um sensor a laser para coletar os dados.
+3 - Acesso ao APP via browser para efetuar os testes do dispositivo.
+4 - Fazer a conexão com o dispositivo via Postman para finalizar o teste.
+5 - Criar uma base de dados, ou já tê-la e incluir a tabela na mesma estrutura que está.
+    o codigo fonte ou mudar de acordo com sua necessidade.
+6 - Alterar no main.py os dados de acesso, ip, banco, user, senha e tabela.
+7 - Realizar o teste executando os comando abaixo.
+```
+
 ## Execução
 ```bash
 $ pip install -r requirements.txt
