@@ -51,5 +51,7 @@ $ python3 main.py
 ```
 
 ## Suporte
+```bash
 WhatsApp: 85 997635122
 E-Mail: geraldo@gpsoft.com.br
+```
